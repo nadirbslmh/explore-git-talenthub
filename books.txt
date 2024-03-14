@@ -1,3 +1,4 @@
 - The Complete Guide of Java Programming
 - Git Complete Guide
 - Microservices, 3rd edition
+- Complete Guide of Python Programming
