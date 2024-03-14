@@ -2,3 +2,4 @@
 - Git Complete Guide
 - Microservices, 3rd edition
 - Complete Guide of Python Programming
+- Digital Marketing, 1st edition
